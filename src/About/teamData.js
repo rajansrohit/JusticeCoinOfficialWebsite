@@ -1,9 +1,9 @@
 const teamData = [{
-    name: "Pratyush Mallick",
-    position: "Co-Founder & Director of Innovation",
-    instagram: "https://www.instagram.com/pmallick_/",
-    linkedin: "https://www.linkedin.com/in/pratyush-m-993645186/",
-    email: "mailto:pratyushmallick@outlook.com",
+    name: "Rohit Rajan",
+    position: "Chief Executive Director",
+    instagram: "https://www.instagram.com/rajansrohit/",
+    linkedin: "https://www.linkedin.com/in/rajansrohit/",
+    email: "mailto:rohitrajan.cs@gmail.com",
   },
   {
     name: "Mylinh Murphree",
