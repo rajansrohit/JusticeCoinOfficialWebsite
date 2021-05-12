@@ -2,7 +2,7 @@
   "name": "justicecoin-official-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rajansrohit.github.io/JusticeCoinOfficialWebsite/",
+  "homepage": "https://rajansrohit.github.io/react-justicecoinofficialwebsite/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
