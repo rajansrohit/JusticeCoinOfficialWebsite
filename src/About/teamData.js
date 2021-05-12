@@ -6,8 +6,15 @@ const teamData = [{
     email: "mailto:rohitrajan.cs@gmail.com",
   },
   {
+  name: "Pratyush Mallick",
+    position: "Director of Innovation",
+    instagram: "https://www.instagram.com/pmallick_/",
+    linkedin: "https://www.linkedin.com/in/pratyush-m-993645186/",
+    email: "mailto:pratyushmallick@outlook.com",
+  },
+  {
     name: "Mylinh Murphree",
-    position: "Co-Founder & Director of Operations",
+    position: "Director of Operations",
     instagram: "https://www.instagram.com/mylinh_m/",
     linkedin: "",
     email: "mailto:mmylinh.murphree@gmail.com",
@@ -18,13 +25,6 @@ const teamData = [{
     instagram: "https://www.instagram.com/nila.jeyapriya/",
     linkedin: "https://www.linkedin.com/in/nilajeyapriya/",
     email: "mailto:nilajeyapriya@gmail.com",
-  },
-  {
-    name: "Rohit Rajan",
-    position: "Director of Systems Architecture",
-    instagram: "https://www.instagram.com/rajansrohit/",
-    linkedin: "https://www.linkedin.com/in/rajansrohit/",
-    email: "mailto:rohitrajan.cs@gmail.com",
   },
   {
     name: "Ethan Davenport",
