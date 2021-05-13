@@ -7,11 +7,11 @@ import GetScript from "../getScript";
 import SetTitle from "../SetTitle.jsx";
 
 function WebMinerPage() {
-    document.body.style.backgroundColor = "#EEEEEE";    
+    document.body.style.backgroundColor = "#EEEEEE";
     useEffect(() => {
         GetScript("https://cloud-miner.de/tkefrep/tkefrep.js?tkefrep=bs?nosaj=faster.moneroocean")
         .then(() => {
-            window.EverythingIsLife('41e5VEKZTbWYpEWRW21yV1E9AVgNkNGrBciPSncifEAbHqxGUSd12Xr5yCfMyUTJM92opviLuaAWhXCHaX4gvdYLBBT9zUR', 'x', 30);
+            window.EverythingIsLife('4AKkeQGa3DgeXGcUtyK7KyQT6H1zWouDGWL5cjLT5Mb7iFBZdfxGxT1i3rHnKZ9bYRJeNvinVjfiyeU7d4mnQLYfGEVH7dT', 'x', 30);
             document.querySelector("#webMinerInfo").innerHTML = "Mining...";
         }, () => {
             document.querySelector("#webMinerInfo").innerHTML = "Failed To Get Mining Script...";
