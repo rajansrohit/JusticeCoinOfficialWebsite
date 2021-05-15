@@ -13,7 +13,7 @@ function DownloadWindowsPage(props) {
           <p className="text-danger text-center" style={{ fontSize: "20px", paddingTop: "2vh" }}>This version is currently under active development so you can't download it yet. Sorry :(</p>
         </div>
         <div className="mt-3 row justify-content-center">
-          <a href={require("../DesktopBuilds/JusticeCoin.exe")} download>
+          <a href={require("../DesktopBuilds/JusticeCoin.zip")} download>
             <button id="download" type="download" className="btn btn-large btn-outline-dark mb-3" name="button">
               <strong style={{ fontSize: "25px" }}>Download For Windows <FaWindows /></strong>
             </button>
