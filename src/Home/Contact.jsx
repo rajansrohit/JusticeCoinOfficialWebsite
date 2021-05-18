@@ -11,7 +11,7 @@ function Contact() {
         <h2 className="h1-responsive font-weight-bold text-center">Keep In Touch With <span className="text-dark">JusticeCoin</span>?</h2>
 
         <h5 className="text-center w-responsive mx-auto mb-5 mt-5" style={{ fontSize: "20px", fontWeight: "semi-bold" }}>Sign up for our mailing list and stay up to date! You can also email us at <strong> <a
-          href="mailto:contact@justicecoin.org">contact@JusticeCoin.com.</a></strong></h5>
+          href="mailto:contact@justicecoin.org">contact@JusticeCoin.org.</a></strong></h5>
       </div>
       <div className="container">
         <div className="col-md-12 mb-md-0 mb-5 text-center email-form">
