@@ -1,6 +1,6 @@
 const teamData = [{
     name: "Rohit Rajan",
-    position: "Chief Executive Director",
+    position: "Executive Director",
     instagram: "https://www.instagram.com/rajansrohit/",
     linkedin: "https://www.linkedin.com/in/rajansrohit/",
     email: "mailto:rohitrajan.cs@gmail.com",
