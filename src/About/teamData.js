@@ -42,7 +42,7 @@ const teamData = [{
   },
   {
     name: "Shrey Joshi",
-    position: "Web Development Lead",
+    position: "Director of Development",
     instagram: "https://www.instagram.com/shreyj1729/",
     linkedin: "https://www.linkedin.com/in/shrey-joshi-005623194/",
     email: "mailto:shreyjoshi2004@gmail.com",
