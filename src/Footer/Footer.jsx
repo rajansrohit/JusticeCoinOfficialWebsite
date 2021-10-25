@@ -37,7 +37,7 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-8 col-sm-6 col-xs-12">
-                        <p className="copyright-text">Copyright &copy; 2020 All Rights Reserved by JusticeCoin.</p>
+                        <p className="copyright-text">Copyright &copy; 2021 All Rights Reserved by JusticeCoin.</p>
           <p>Built with ❤</p>
                     </div>
 
