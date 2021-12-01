@@ -56,7 +56,7 @@ const teamData = [{
   },
   {
     name: "Anay Gupta",
-    position: "Development Lead",
+    position: "Co-Executive Director",
     instagram: "",
     linkedin: "https://www.linkedin.com/in/anay-gupta-355028176/",
     email: "mailto:",
